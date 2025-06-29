@@ -1,0 +1,14 @@
+D:\Swabhav\Assignment\MovieApp\bin\Debug\net8.0\MovieApp.exe
+D:\Swabhav\Assignment\MovieApp\bin\Debug\net8.0\MovieApp.deps.json
+D:\Swabhav\Assignment\MovieApp\bin\Debug\net8.0\MovieApp.runtimeconfig.json
+D:\Swabhav\Assignment\MovieApp\bin\Debug\net8.0\MovieApp.dll
+D:\Swabhav\Assignment\MovieApp\bin\Debug\net8.0\MovieApp.pdb
+D:\Swabhav\Assignment\MovieApp\obj\Debug\net8.0\MovieApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swabhav\Assignment\MovieApp\obj\Debug\net8.0\MovieApp.AssemblyInfoInputs.cache
+D:\Swabhav\Assignment\MovieApp\obj\Debug\net8.0\MovieApp.AssemblyInfo.cs
+D:\Swabhav\Assignment\MovieApp\obj\Debug\net8.0\MovieApp.csproj.CoreCompileInputs.cache
+D:\Swabhav\Assignment\MovieApp\obj\Debug\net8.0\MovieApp.dll
+D:\Swabhav\Assignment\MovieApp\obj\Debug\net8.0\refint\MovieApp.dll
+D:\Swabhav\Assignment\MovieApp\obj\Debug\net8.0\MovieApp.pdb
+D:\Swabhav\Assignment\MovieApp\obj\Debug\net8.0\MovieApp.genruntimeconfig.cache
+D:\Swabhav\Assignment\MovieApp\obj\Debug\net8.0\ref\MovieApp.dll
